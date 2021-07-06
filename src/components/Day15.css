@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Great+Vibes&family=Pacifico&display=swap');
+
+div.outer{
+
+    background-image: url("l2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -140px;
+    height: 100vh;
+
+}
+
+div.main{
+    background-image: url("https://img1.picmix.com/output/stamp/normal/0/6/4/7/1007460_aca17.gif");
+    height: 100vh;
+   
+}
+
+h1.heading1
+{
+    text-align: center;
+    color:hsl(0, 93%, 32%);
+    font-size: 200px;
+    font-family: 'Pacifico', cursive;
+    position: sticky;
+    top:150px;
+    font-weight: 100;
+}
