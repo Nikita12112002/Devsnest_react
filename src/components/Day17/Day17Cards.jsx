@@ -9,10 +9,8 @@ function Day17Cards(props)
        
           
           <div className="container2">
-
-            <h1>{props.title}</h1>
-            <h2>{props.description}</h2>
-             
+            <h1>DISH : {props.title}</h1>
+            <h2> {props.description}</h2>
           </div>
         
           

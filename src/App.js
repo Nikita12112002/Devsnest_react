@@ -4,7 +4,7 @@ import './App.css';
 import Day15 from "./components/Day15/Day15";
 import Day16 from "./components/Day16/Day16";
 import Day17 from "./components/Day17/Day17";
-
+import Day18 from "./components/Day18/Day18";
 
 
 function App()
@@ -21,6 +21,9 @@ function App()
                 </Route>
                 <Route exact path="/day17">
                     <Day17/>
+                </Route>
+                <Route exact path="/day18">
+                    <Day18/>
                 </Route>
 
             </Switch>
