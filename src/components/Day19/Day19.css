@@ -1,0 +1,106 @@
+.main_div
+{
+  margin: auto;
+  width: 600px;
+  height:320px;
+  background-color: rgb(255, 80, 80);
+  box-shadow: 0px 0px 8px 10px gray;
+  box-sizing: border-box;
+  margin-top: 100px;
+  position: absolute;
+  top:60px;
+  left: 410px;
+}
+
+.container
+{
+  margin: auto;
+  background-color:transparent;
+  width:550px;
+  height: 200px;
+  
+}
+.btn11
+{
+    font-size: 60px;
+    width: 100px;
+    height: 100px;
+    color:black;
+    background-color: white;
+    margin-top: -30px;
+    margin-left:95px;
+    border:none;
+    box-shadow:  0px 0px 10px gray;
+    background-color: rgb(243, 195, 187);
+    
+   
+}
+
+.btn2
+{
+    font-size: 60px;
+    width: 100px;
+    height: 100px;
+    color:black;
+    background-color: white;
+    margin-top: -30px;
+    margin-left:40px;
+    border:none;
+    box-shadow:  0px 0px 10px gray;
+    background-color: rgb(243, 195, 187);
+   
+}
+
+.btn3
+{
+    font-size: 60px;
+    width: 100px;
+    height: 100px;
+    color:black;
+    background-color: white;
+    margin-top: -30px;
+    margin-left:40px;
+    border:none;
+    box-shadow:  0px 0px 10px gray;
+    
+    background-color: rgb(243, 195, 187);
+   
+}
+.inner_div
+{
+    margin-left:90px;
+    background-color: transparent;
+    margin: auto;
+    width:550px;
+    height: 60px;
+    margin-top: 10px;
+}
+h1.day
+{
+   float: left;
+   margin-left: 120px;
+   font-size: 60px;
+  
+}
+h1.month
+{
+  float: left;
+  margin-left: 90px;
+  font-size: 60px;
+}
+h1.year
+{
+ 
+  float: left;
+  margin-left: 90px;
+  font-size: 60px;
+}
+.out
+{
+  background-color: turquoise;
+  background-image: url("https://previews.123rf.com/images/ket4up/ket4up1908/ket4up190800084/128744446-color-confetti-isolated-on-white-background-celebrate-vector-illustration.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 747px;
+  margin-top: -100px;
+}
