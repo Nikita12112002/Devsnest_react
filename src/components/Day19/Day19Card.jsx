@@ -3,21 +3,21 @@ import "./Day19.css";
 
 function Day19Card()
 {
-    const[num ,setnum]=useState(0);
-    const[num2 ,setnum2]=useState(0);
-    const[num3 ,setnum3]=useState(0);
+    const[num ,setNum]=useState(0);
+    const[num2 ,setNum2]=useState(0);
+    const[num3 ,setNum3]=useState(0);
 
-    const incnum=()=>
+    const incNum=()=>
     {
-        setnum(num+1);
+        setNum(num+1);
     }
-    const incnum2=()=>
+    const incNum2=()=>
     {
-        setnum2(num2+1);
+        setNum2(num2+1);
     }
-    const incnum3=()=>
+    const incNum3=()=>
     {
-        setnum3(num3+1);
+        setNum3(num3+1);
     }
     
     return(
@@ -34,11 +34,11 @@ function Day19Card()
         
              
           
-            <button className="btn11" onClick={incnum}>{num}</button>
+            <button className="btn11" onClick={incNum}>{num}</button>
             
-            <button className="btn2" onClick={incnum2}>{num2}</button>
+            <button className="btn2" onClick={incNum2}>{num2}</button>
            
-            <button className="btn3" onClick={incnum3}>{num3}</button>
+            <button className="btn3" onClick={incNum3}>{num3}</button>
             </div>  
         </div>
         </div>
