@@ -1,0 +1,36 @@
+.add
+{
+    margin: auto;
+    margin-left: 500px;
+}
+.add_item
+{
+    height: 30px;
+    outline: black;
+    width: 200px;
+    text-align: center;
+    
+}
+.add_calories
+{
+    height:30px;
+    margin-left: 30px;
+    outline: black;
+    width: 200px;
+    text-align: center;
+}
+.add_btn
+{
+    height:36px;
+    margin-left: 550px;
+    outline: black;
+    width: 350px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: blue;
+    color: white;
+}
+h1.heading_add
+{
+    margin-left: 100px;
+}
