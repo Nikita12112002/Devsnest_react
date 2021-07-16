@@ -1,12 +1,18 @@
 import React from "react";
-const deleteItem=()=>
-{
-    console.log("delted");
-}
+
 function Day21delete(props)
 {
+    const deleteItem=()=>
+{
+    const newdata = props.cal.filter((el,i)=>i!=props.index);
+    props.setCal(newdata);
+}
     return(
         <>
+          
+            
+             
+             <h1> You have consumed {props.calorie} calories </h1>
          <button onClick={deleteItem}>Delete</button>
         </>
     );
