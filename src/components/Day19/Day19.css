@@ -12,12 +12,13 @@
   left: 410px;
 }
 
-.container
+.container_button
 {
   margin: auto;
   background-color:transparent;
   width:550px;
   height: 200px;
+  margin-top: 70px;
   
 }
 .btn11

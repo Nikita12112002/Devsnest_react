@@ -5,7 +5,7 @@ div.outer{
     background-image: url("l2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    margin-top: -140px;
+    margin-top: -5px;
     height: 100vh;
 
 }

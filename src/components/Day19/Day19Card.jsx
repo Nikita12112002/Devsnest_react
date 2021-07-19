@@ -30,7 +30,7 @@ function Day19Card()
                <h1 className="year">S</h1>
                </div>
          
-         <div class="container">
+         <div class="container_button">
         
              
           

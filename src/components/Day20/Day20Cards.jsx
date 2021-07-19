@@ -17,11 +17,11 @@ const Day20Cards=({name,calorie,index,data,setData})=>
 
     return(
         
-        <div className="container2">
+        <div className="containerII">
 
-            <h1>Dish : {name}</h1>
+            <h1 className="dishes">Dish : {name}</h1>
 
-           <h2>You have consumed {calorie} cals today.</h2>
+           <h2 className="caloriess">You have consumed {calorie} cals today.</h2>
 
            <Button
                  onClick={()=>{
@@ -43,7 +43,7 @@ const Day20Cards=({name,calorie,index,data,setData})=>
         fontWeight:"bold",
         textAlign:"center",
         marginLeft:"145px",
-        marginTop:"-15px",
+        marginTop:"7px",
         height:"30px",
         boxShadow:"3px 4px 5px black",
         }}

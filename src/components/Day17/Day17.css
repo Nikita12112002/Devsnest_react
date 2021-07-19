@@ -5,9 +5,9 @@ div.main_e
    background-image: url("https://thumbs.dreamstime.com/b/vegetables-spices-ingredient-cooking-italian-food-black-wooden-old-board-rustic-style-76334485.jpg");
    background-repeat: no-repeat;
    background-size: cover;
-   height: 670px;
-   width: 1359px;
-   margin:-20px;
+   height: 700px;
+   width: 100%;
+  
 }
 div.main3
  {
@@ -66,7 +66,7 @@ div.main3
     background: rgb(25, 90, 187); 
   }
 
-  h1
+  h1.dish
   {
     font-family: "lobster",cursive;
     text-align: center;
@@ -74,7 +74,7 @@ div.main3
     font-weight: bolder;
   }
 
-  h2
+  h2.cal
   {
     font-family: 'Pacifico', cursive;
     font-size: 21px;
@@ -85,6 +85,7 @@ div.main3
     background-color: blanchedalmond;
     text-align: center;
     text-shadow: black;
+    margin-top: 30px;
   }
 
   .head
@@ -94,5 +95,6 @@ div.main3
     font-weight: bold;
     text-decoration: underline;
     font-size: 30px;
-   
+    
+    
   }

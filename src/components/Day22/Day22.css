@@ -10,28 +10,36 @@
     margin-top: 30px;
     text-align: center;
 }
+
 .input_box
 {
+   
+    padding: "4px";
+    text-align: "center";
+    margin-left: "10px";
+    margin:"auto";
     
-    height: 5px;
-    width: 150px;
-    padding : 10px;
-    text-align: center;
-    color: black;
+    border: "1px solid black";
+    color:"black";
+    font-size:"15px";
+    font-weight:"bold";
+    font-family:"cursive";
+    height:"17px";
+    width:"100px";
+    margin-left:"80px";
+    margin-top:"20px";
   
-    margin-top:20px;
 }
-.input_div
-{
-   float: left;
-   width: 550px;
-  
-   margin:auto
+
+.input_div{
+    background-color: transparent;
+    width:900px;
+    margin:auto;
 }
 
 .image_meme
 {
-    margin-left: 500px;
+    margin-left: 270px;
     height: 300px;
 }
 
@@ -40,6 +48,8 @@
     margin:auto;
     width: 500px;
     display: inline-block;
+    margin-top: 10px;
+    margin-left: 240px;
    
 }
 .meme_gbtn
@@ -49,11 +59,20 @@
     height: 40px;
     padding: 10px;
     width: 200px;
-    background-color: rgb(230, 64, 72);
+   
     text-align: center;
-    font-weight: bold;
+    font-weight: bolder;
     border-radius: 7px;
     margin-left: 30px;
     font-family: "lobster",cursive;
     font-size: large;
+}
+
+.meme1
+{
+   
+    background-color :transparent;
+    width:400px;
+    margin-left: 600px;
+    margin:auto;
 }

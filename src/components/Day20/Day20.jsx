@@ -13,14 +13,14 @@ function Day20() {
   {name:"Pani puri",calorie:10},
 ]);
   return (
-    <div className="main_e">
-     <h1 className="head">YOUR CALORIE CHART</h1>
-      <div className="main3">
+    <div className="main_1">
+     <h1 className="mainhead">YOUR CALORIE CHART</h1>
+      <div className="main33">
          {data.length!==0?
            data.map((data1,key)=>(
              <Day20Cards key={key} name={data1.name} calorie={data1.calorie} index={key} data={data} setData={setData}/>
          )):
-         <h1 style={{color:"white"}}>NO ENTRY</h1>
+         <h1 className="no_entry" style={{color:"white"}}>NO ENTRY</h1>
          }
       </div>
     </div>
