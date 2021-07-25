@@ -10,6 +10,7 @@ nav{
     width: 100%;
     background-color: black;
     height: 60px;
+    
 }
 
 
@@ -39,15 +40,36 @@ li{
     height: 30px;
     width: 100px;
     float: left;
-    margin-left: 650px;
+    margin-left: 620px;
     margin-top: 30px;
 }
 .home_head
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    color:blue;
 }
 .home_heading
 {
     text-align: center;
+}
+
+img.illus
+{
+  height:500px;
+  width: 500px;
+  float: right;
+}
+
+.home1_head
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+.about_head
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:black;
 }
