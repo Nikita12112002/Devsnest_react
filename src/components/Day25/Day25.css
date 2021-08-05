@@ -1,0 +1,18 @@
+.day25_div
+{
+    background: rgba(255, 255, 255, .7);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+}
+
+.day25_div2
+{
+    background-color: white;
+    height: 60vh;
+    width: 50%;
+    opacity: 0.6;
+    position: absolute;
+    top:-20px;
+    left:200px;
+
+}

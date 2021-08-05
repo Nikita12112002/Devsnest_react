@@ -12,7 +12,9 @@ import Day22 from "./components/Day22/Day22";
 import Day24 from "./components/Day24/Day24";
 import Day24Home from "./components/Day24/Day24Home";
 import Day24About from "./components/Day24/Day24About";
+import Day25 from "./components/Day25/Day25";
 import Day26 from "./components/Day26/Day26";
+import Day27 from "./components/Day27/Day27";
 
 function App()
 {
@@ -53,8 +55,14 @@ function App()
                 <Route exact path="/day24/about">
                     <Day24About/>
                 </Route>
+                <Route exact path="/day25">
+                    <Day25/>
+                </Route>
                 <Route exact path="/day26">
                     <Day26/>
+                </Route>
+                <Route exact path="/day27">
+                    <Day27/>
                 </Route>
             </Switch>
         </Router>

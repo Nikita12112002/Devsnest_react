@@ -1,0 +1,25 @@
+.day27_div
+{
+    margin: auto;
+    background-color:transparent;
+    width:600px;
+    height:200px;
+}
+
+.day27_add
+{
+    
+    font-size: 20px;
+    color:blue;
+    font-family: "lobster",cursive;
+    text-align: center;
+    font-weight: 700;
+    outline-color: black;
+    border:1px solid black;
+    
+
+}
+.day27_addbtn
+{
+   margin-left:50px;
+}

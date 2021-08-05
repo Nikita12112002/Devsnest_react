@@ -5,7 +5,7 @@ div.main_1
    background-image: url("https://thumbs.dreamstime.com/b/vegetables-spices-ingredient-cooking-italian-food-black-wooden-old-board-rustic-style-76334485.jpg");
    background-repeat: no-repeat;
    background-size: cover;
-   height: 670px;
+   height: 650px;
    width: 1359px;
    margin:-20px;
 }
@@ -95,5 +95,5 @@ div.main33
     font-weight: bold;
     text-decoration: underline;
     font-size: 30px;
-   
+   margin-top: 20px;
   }

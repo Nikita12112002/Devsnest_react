@@ -39,7 +39,7 @@ const Login=()=>
     return(
         <>
           <Button variant="contained" color="secondary" 
-          className="login-btn"  
+            
           onClick={logout}
           style={{
                   height: "30px",

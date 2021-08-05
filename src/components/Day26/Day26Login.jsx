@@ -68,7 +68,7 @@ function Day26Login() {
             </form>
 
             <br></br><br></br>
-            <div className="showbox">
+            <div>
               
                 <p className="login_para">Name : {userName}</p>
                 <p className="login_para">Email : {email}</p>
