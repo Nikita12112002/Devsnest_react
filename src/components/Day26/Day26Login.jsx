@@ -55,7 +55,7 @@ function Day26Login() {
                       style=
                       {{ marginTop: "30px",
                         height: "30px",
-                        width: "320px",
+                        width: "300px",
                         backgroundColor:"#23278c",
                         boxShadow:"3px 5px 10px black",
                         marginLeft:"100px",
