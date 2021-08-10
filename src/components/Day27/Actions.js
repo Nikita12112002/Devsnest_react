@@ -1,4 +1,4 @@
-import { adding_item , deleting_item} from "./ActionsType";
+import { adding_item , deleting_item ,delete_all} from "./ActionsType";
 
 const day27_addItem=(item)=>
 {
@@ -19,4 +19,12 @@ const day27_delItem=(id)=>
     }
 };
 
-export {day27_addItem , day27_delItem};
+const day27_deleteALL=()=>
+{
+    return{
+
+        type:delete_all,
+
+    }
+}
+export {day27_addItem , day27_delItem , day27_deleteALL};

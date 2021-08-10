@@ -1,6 +1,7 @@
-import { createStore } from 'redux'
-import { userFromReducer } from "./Reducer";
+import { createStore ,applyMiddleware} from 'redux';
+import logger from 'redux-logger';
+import rootReducer from "./Reducers/combineReducers";
 
-const store = createStore(userFromReducer)
+const store = createStore(rootReducer ,applyMiddleware(logger));
 
-export default store
+export default store;
