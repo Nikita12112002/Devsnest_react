@@ -4,12 +4,13 @@
     padding: 0;
 }
 
-nav{
+.navbar{
 
 
     width: 100%;
     background-color: black;
     height: 60px;
+   
     
 }
 
@@ -17,8 +18,8 @@ nav{
 
 ul{
     list-style: none;
-    overflow: auto;
-    justify-content: space-around;
+    
+   
     
 }
 
@@ -27,13 +28,15 @@ li{
     display: inline;
     color:white;
     background-color: transparent;
-    margin-left: 60px;
-    margin-top: 10px;
-    padding: 10px;
+    margin-left: 100px;
+    margin-top: 6px;
+    padding: 8px;
     font-weight: bolder;
     width: 100px;
+    
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+   
 }
 /*.login-btn
 {

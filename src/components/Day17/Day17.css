@@ -72,6 +72,8 @@ div.main3
     text-align: center;
     font-size: 25px;
     font-weight: bolder;
+    color:black;
+    margin-top: 10px;
   }
 
   h2.cal
@@ -86,6 +88,9 @@ div.main3
     text-align: center;
     text-shadow: black;
     margin-top: 30px;
+    height: 40px;
+   
+    
   }
 
   .head

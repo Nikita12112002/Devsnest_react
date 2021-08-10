@@ -72,6 +72,7 @@ div.main33
     text-align: center;
     font-size: 25px;
     font-weight: bolder;
+    color:black;
   }
 
   h2.caloriess
@@ -86,6 +87,7 @@ div.main33
     text-align: center;
     text-shadow: black;
     margin-top: 26px;
+    height: 40px;
   }
 
   .mainhead

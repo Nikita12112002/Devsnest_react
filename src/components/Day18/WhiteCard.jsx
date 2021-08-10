@@ -1,7 +1,7 @@
 import React from "react";
 import "./Day18.css";
 
-var b=["bl","wh" ,"bl","wh","bl","wh","bl","wh","bl","wh","bl"];
+
 var s=["bl","wh" ,"bl","wh","bl","wh","bl","wh","bl","wh","bl"];
 
 function WhiteCard()

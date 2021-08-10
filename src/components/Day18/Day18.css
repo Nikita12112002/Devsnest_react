@@ -43,6 +43,7 @@ table.tb{
 .white1
 {
     background-color: white;
+    width: 21px;
+    height: 21px;
+    border: none;
 }
-
-
