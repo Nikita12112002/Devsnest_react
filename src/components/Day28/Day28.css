@@ -1,0 +1,233 @@
+.day28_weather
+{
+    margin: auto;
+    background-color: transparent;
+    width: 550px;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.day28_input
+{
+    margin-left: 130px;
+    height: 40px;
+    width: 290px;
+    text-align: center;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    font-weight: 500;
+    font-size: 27px;
+}
+
+.day28_btn
+{
+    margin-left: 20px;
+    margin-top: -8px;
+    
+}
+
+.day28_content
+{
+    
+  
+    transform:
+    perspective(800px);
+    
+  transition: transform 1s ease 0s;
+  border-radius: 4px;
+  box-shadow:
+  rgba(219, 22, 22, 0.024) 0px 0px 0px 1px,
+  rgba(0, 0, 0, 0.05) 0px 1px 0px 0px,
+  rgba(0, 0, 0, 0.03) 0px 0px 8px 0px,
+  rgba(0, 0, 0, 0.1) 0px 20px 30px 0px;
+
+ width: 550px;
+ height: 420px;
+ margin: auto;
+ background: rgb(122,222,251);
+background: radial-gradient(circle, rgba(122,222,251,1) 0%, rgba(9,174,242,1) 100%);
+ margin-top: 30px;
+ margin-left: 440px;
+ 
+ 
+}
+
+.day28_h1
+{
+    margin-left: 80px;
+    font-size: 20px;
+    margin-top: 40px;
+    
+}
+
+.day28_h3
+{
+    margin-left: 92px;
+    font-size: 20px;
+    
+}
+
+.day28_country
+{
+    position: fixed;
+    top: 10px;
+    width: 200px;
+    background-color: transparent;
+    margin-left: 350px;
+    text-align: center;
+}
+
+.day28_h4
+{
+    text-align: center;
+    position: fixed;
+    top: 130px;
+    left: 245px;
+    font-size: 50px;
+    color:yellow;
+}
+
+.day28_img
+{
+    width: 130px;
+    height: 130px;
+    margin-left: 210px;
+    margin-top: 15px;
+}
+
+.day28_h6
+{
+    font-size: 20px;
+    margin-top: 40px;
+    
+    
+}
+
+.day28_text
+{
+    width: 200px;
+    background-color: transparent;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.day28_hour
+{
+    
+    color: white;
+    margin-top: -10px;
+}
+
+.day28_h7
+{
+    font-size: large;
+    margin-left: 10px;
+    
+}
+
+.day28_h8
+{
+    font-size: large;
+    margin-left: 180px;
+   
+    
+}
+
+.day28_h9
+{
+    font-size: large;
+    margin-left: 140px;
+}
+
+.day28_wind
+{
+   color: black;
+   float: left;
+   margin-left: 19px;
+   text-align: center;
+}
+
+.day28_humidity
+{
+    color: black;
+    float: left;
+    margin-left: 157px;
+    text-align: center;
+}
+
+.day28_prec
+{
+    color: black;
+    float: left;
+    margin-left: 130px;
+    text-align: center;
+}
+
+.wph_img
+{
+    height: 30px;
+    width: 30px;
+}
+
+.day28_h2
+{
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top:120px;
+    left: 180px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blue;
+}
+
+.day28_img2
+{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 50px;
+}
+
+.day28_temp1
+{
+    margin-left: 58px;
+    color: yellow;
+    font-weight: 500;
+    text-shadow: black;
+    font-size: large;
+}
+
+.day28_temp2
+{
+    margin-left: 41px;
+    color: yellow;
+    font-weight: 500;
+    font-size: large;
+}
+.day28_temp3
+{
+    margin-left: 50px;
+    color: yellow;
+    font-weight: 500;
+    font-size: large;
+
+}
+.day28_temp4
+{
+    margin-left: 47px;
+    color: yellow;
+    font-weight: 500;
+    font-size: large;
+}
+
+.day28_temp5
+{
+    margin-left: 45px;
+    color: yellow;
+    font-weight: 500;
+    font-size: large;
+}

@@ -51,10 +51,12 @@ li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     color:blue;
+    font-size: 28px;
 }
 .home_heading
 {
     text-align: center;
+    color:black;
 }
 
 img.illus

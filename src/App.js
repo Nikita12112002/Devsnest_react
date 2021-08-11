@@ -15,6 +15,7 @@ import Day24About from "./components/Day24/Day24About";
 import Day25 from "./components/Day25/Day25";
 import Day26 from "./components/Day26/Day26";
 import Day27 from "./components/Day27/Day27";
+import Day28 from "./components/Day28/Day28";
 
 function App()
 {
@@ -63,6 +64,9 @@ function App()
                 </Route>
                 <Route exact path="/day27">
                     <Day27/>
+                </Route>
+                <Route exact path="/day28">
+                    <Day28/>
                 </Route>
             </Switch>
         </Router>
