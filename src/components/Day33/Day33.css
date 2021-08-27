@@ -1,0 +1,32 @@
+.day33_themetoggle
+{
+    position: fixed;
+    top:0px;
+    right: 10px;
+    background-color: black;
+    color:white;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.day33_themetoggle.dark
+{
+    background-color: white;
+    color:black;
+}
+.day33_Appdark 
+{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 100%;
+
+}
+.day33_App{
+
+    background-color: white;
+    color: black;
+    height: 100vh;
+    width: 100%;
+}
+
