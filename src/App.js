@@ -17,9 +17,9 @@ import Day26 from "./components/Day26/Day26";
 import Day27 from "./components/Day27/Day27";
 import Day28 from "./components/Day28/Day28";
 import Day29 from "./components/Day29/Day29";
-import Day30 from "./components/Day30/Day30";
+import Day30 from "./components/Day30&31/Day30";
 import Day33 from "./components/Day33/Day33";
-
+import Day34 from "./components/Day34/index";
 
 function App()
 {

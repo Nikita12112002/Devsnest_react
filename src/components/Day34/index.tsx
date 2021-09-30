@@ -5,11 +5,14 @@ import App from "./Day34";
 import { Provider } from "react-redux";
 import store from "./store";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <Provider store={store}>
-      <App />
-    </Provider>
-  </React.StrictMode>,
-  document.getElementById("root")
-);
+const Day34 = () => {
+    return (
+      
+      <Provider store={store}>
+        <App />
+      </Provider>
+   
+    )
+}
+
+export default Day34;
